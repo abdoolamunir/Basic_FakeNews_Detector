@@ -82,5 +82,5 @@ def find_related_articles_and_analyze(url_list):
             print("Failed to generate a valid summary for URL:", url)
 
 # Example usage, you may change to any other news article URL
-url_list = ["https://edition.cnn.com/2024/02/13/asia/pakistan-coalition-government-intl/index.html"]
+url_list = ["Paste your URL Here"]
 find_related_articles_and_analyze(url_list)
